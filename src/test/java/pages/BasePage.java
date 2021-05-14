@@ -12,3 +12,4 @@ public abstract class BasePage {
         // chi viet code theo framework cho BIM va ToDoMVC
         // Tat ca cac class con lai la viet co ban, lay tung doi tuong ra test
 }
+
