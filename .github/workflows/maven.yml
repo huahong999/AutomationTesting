@@ -21,7 +21,7 @@ jobs:
         with:
           java-version: 15
       - name: Run Selenium Test
-        run: mvn -B test
+        run: mvn test -Dtestplan=todoTestPlan.xml
       - name: Publish Test Report
         uses: scacap/action-surefire-report@v1
         with:
