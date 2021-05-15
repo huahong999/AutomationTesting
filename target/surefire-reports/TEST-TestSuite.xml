@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="10.582" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="11.779" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="webdriver.chrome.driver" value="/Users/huahong/.cache/selenium/chromedriver/mac64/90.0.4430.24/chromedriver"/>
@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="VN"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/15.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/huahong/AutomationTesting/target/surefire/surefirebooter7319077283604758332.jar /Users/huahong/AutomationTesting/target/surefire 2021-05-14T17-56-04_758-jvmRun1 surefire753502692102596452tmp surefire_09857925527544289057tmp"/>
+    <property name="sun.java.command" value="/Users/huahong/AutomationTesting/target/surefire/surefirebooter8426511227724073016.jar /Users/huahong/AutomationTesting/target/surefire 2021-05-15T10-28-32_934-jvmRun1 surefire4175277185123677527tmp surefire_015163491160673685103tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/huahong/AutomationTesting/target/test-classes:/Users/huahong/AutomationTesting/target/classes:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/huahong/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/huahong/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/huahong/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/huahong/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/huahong/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/huahong/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/huahong/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/huahong/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/huahong/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/huahong/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/huahong/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/huahong/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/huahong/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/huahong/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/huahong/.m2/repository/io/github/bonigarcia/webdrivermanager/4.3.1/webdrivermanager-4.3.1.jar:/Users/huahong/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/Users/huahong/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/huahong/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/huahong/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/huahong/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.0.3/httpclient5-5.0.3.jar:/Users/huahong/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.0.2/httpcore5-5.0.2.jar:/Users/huahong/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.0.2/httpcore5-h2-5.0.2.jar:/Users/huahong/.m2/repository/commons-codec/commons-codec/1.13/commons-codec-1.13.jar:/Users/huahong/.m2/repository/org/rauschig/jarchivelib/1.1.0/jarchivelib-1.1.0.jar:/Users/huahong/.m2/repository/org/apache/commons/commons-compress/1.20/commons-compress-1.20.jar:/Users/huahong/.m2/repository/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar:/Users/huahong/.m2/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar:"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/huahong/AutomationTesting/target/surefire/surefirebooter7319077283604758332.jar"/>
+    <property name="surefire.real.class.path" value="/Users/huahong/AutomationTesting/target/surefire/surefirebooter8426511227724073016.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="15.0.2+7"/>
@@ -55,7 +55,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="tc01" classname="module.BMITest" time="3.722">
+  <testcase name="tc01" classname="module.BMITest" time="3.277">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/huahong/AutomationTesting/todoTestPlan.xml] otherwise TestNG may fail or not work as expected.
 [Configuration] [WARN] Detected a static method [module.BaseTest.setup()]. Static configuration methods can cause  unexpected behavior.
 [Configuration] [WARN] Detected a static method [module.BaseTest.tearDown()]. Static configuration methods can cause  unexpected behavior.
@@ -64,11 +64,11 @@ BMI = 15.6 kg/m2   (-8%, Underweight)
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 26154
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 32618
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-thg 5 14, 2021 5:56:07 CH org.openqa.selenium.remote.ProtocolHandshake createSession
+thg 5 15, 2021 10:28:37 SA org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
