@@ -13,6 +13,7 @@ public class ToDoMVCPage extends BasePage{
     By todoList = By.cssSelector("ul.todo-list >li");
     By newTodoTxt = By.className("new-todo");
 
+
     public ToDoMVCPage(WebDriver driver) {
         super(driver);
     }

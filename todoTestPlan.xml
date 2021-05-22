@@ -1,7 +1,7 @@
 <suite name="demo">
     <test name="testNG">
         <classes>
-            <class name="module.BMITest"/>
+            <class name="module.ToDoMVC"/>
         </classes>
     </test>
 </suite>

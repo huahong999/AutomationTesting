@@ -40,13 +40,13 @@ public class ToDoMVC extends BaseTest{
         ToDoMVCPage toDoMVCPage = new ToDoMVCPage(driver);
         toDoMVCPage.open();
         toDoMVCPage.addNewName("Krystal");
-        int itemBF = toDoMVCPage.getItemLeft();
+        int itemBF = toDoMVCPage.getItemLeft();  // =1
 
         toDoMVCPage.removeTodo("Krystal");
 
-        int itemAT = toDoMVCPage.getItemLeft();
+        int itemAT = toDoMVCPage.getItemLeft(); // = 0
 
-        Assert.assertEquals(itemAT-itemBF,-1 );
+        Assert.assertEquals(itemAT-itemBF,-1 ); // 0 - 1 = -1
     }
 
 //    @Test
